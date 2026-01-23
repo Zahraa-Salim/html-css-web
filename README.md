@@ -1,7 +1,7 @@
-#E-sheba
+##E-sheba
 A modern responsive website built with HTML and CSS.
 
-#Overview
+##Overview
 
 This project is a responsive, visually appealing website built entirely with HTML and CSS. It features a modern layout with multiple sections including:
 
@@ -23,7 +23,7 @@ Footer
 
 The design is fully responsive, adapting to various screen sizes including desktop, tablet, and mobile.
 
-#Features
+##Features
 
 Clean, semantic HTML structure
 
@@ -31,13 +31,13 @@ Modern CSS styling with responsive design
 
 Flexbox layout for easy alignment
 
-Hover and active states for buttons and links
+active states for buttons and links
 
 Media queries for mobile and tablet screens
 
 Subscription form and testimonial cards
 
-#Technologies
+##Technologies
 
 HTML5
 
