@@ -752,6 +752,15 @@ body {
   color: var(--color-light-bg);
 }
 
+.why-image img,
+.future-image img {
+  width: 100%;
+  max-width: 520px; /* keeps the original size on large screens */
+  height: auto;      /* keeps aspect ratio */
+  border-radius: 24px;
+  object-fit: cover;
+}
+
 /* =========================
    MEDIA QUERIES
    ========================= */
@@ -822,10 +831,6 @@ body {
   .footer-map {
     width: 100%;
   }
-
-  .hero-image {
-    display: none;
-  }
 }
 
 @media (max-width: 768px) {
@@ -895,6 +900,10 @@ body {
 
   .hero-stats p {
     font-size: 16px;
+  }
+  .why-image,
+  .future-image {
+    max-width: 100%;
   }
 }
 
