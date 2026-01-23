@@ -1,4 +1,4 @@
-##E-sheba
+## E-sheba
 A modern responsive website built with HTML and CSS.
 
 ##Overview
@@ -23,7 +23,7 @@ Footer
 
 The design is fully responsive, adapting to various screen sizes including desktop, tablet, and mobile.
 
-##Features
+## Features
 
 Clean, semantic HTML structure
 
@@ -37,7 +37,7 @@ Media queries for mobile and tablet screens
 
 Subscription form and testimonial cards
 
-##Technologies
+## Technologies
 
 HTML5
 
@@ -45,4 +45,4 @@ CSS3
 
 Google Fonts: IBM Plex Sans
 
-Accessing Online https://Zahraa-Salim.github.io/html-css-web/
+## Accessing Online https://Zahraa-Salim.github.io/html-css-web/
